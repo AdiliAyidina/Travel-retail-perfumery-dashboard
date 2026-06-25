@@ -28,8 +28,9 @@ The dataset is intentionally engineered with real-world commercial patterns — 
 ## 🖼️ Dashboard Preview
 
 <!-- Replace these with your own screenshots exported from Looker Studio -->
-![Dashboard Overview](docs/screenshots/overview.png)
-![Dashboard Detail](docs/screenshots/detail.png)
+<img width="1458" height="835" alt="Screenshot 2026-06-25 at 14 26 31" src="https://github.com/user-attachments/assets/353e81ab-1ed6-4924-a942-2bf73fb9c4ca" />
+)
+)
 
 ---
 
@@ -142,12 +143,12 @@ The dataset is not random — it encodes deliberate commercial logic so analysis
 
 ## 👤 About
 
-**Aella (Adili Ayidina)** — Data Analyst with a background in luxury fragrance and travel retail (Le Labo / Estée Lauder, Global Blue), and an MSc in Business Analytics. Trilingual: Mandarin · Spanish · English.
+**(Adili Ayidina)** — Data Analyst with a background in luxury fragrance and travel retail (Le Labo / Estée Lauder, Global Blue), and an MSc in Business Analytics. Trilingual: Mandarin · Spanish · English.
 
 This project sits at the intersection of two of my domains — **duty-free fragrance retail** and **data analytics** — using realistic category dynamics I know first-hand to build a portfolio-ready, end-to-end BI workflow.
 
-- 🔗 LinkedIn: `<your-linkedin-url>`
-- 📧 Contact: `<your-email>`
+- 🔗 LinkedIn: `<linkedin.com/in/ayidinaadili-687750265>`
+- 📧 Contact: `<ayidinaadili@gmail.com>`
 
 ---
 
@@ -157,9 +158,4 @@ Released under the [MIT License](LICENSE). The synthetic dataset is free to use 
 
 ---
 
-### ✅ Personalize before publishing
-- [ ] Add your GitHub username to the clone URL
-- [ ] Export 1–3 dashboard screenshots to `docs/screenshots/` (the README references `overview.png` and `detail.png`)
-- [ ] Confirm the **Dashboard Highlights** match your actual report pages/charts (I couldn't read the live charts — only the dataset)
-- [ ] Fill in your LinkedIn and contact details
-- [ ] Add a `LICENSE` file if you keep the MIT badge (GitHub can generate one in two clicks)
+
